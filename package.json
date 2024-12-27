@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "preview": "vite preview --port 8080 --host"
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint .",
